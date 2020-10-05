@@ -1,6 +1,6 @@
 # UnitBarrage
 
-[![ver:1.0](https://img.shields.io/badge/ver-1.0-8181F7.svg)](https://github.com/mtytheone/UnitBarrage/releases/tag/v1.0)
+[![ver:1.1](https://img.shields.io/badge/ver-1.1-8181F7.svg)](https://github.com/mtytheone/UnitBarrage/releases/tag/v1.1)
 [![License:GPLv3](https://img.shields.io/badge/License-MIT-04B431.svg)](https://choosealicense.com/licenses/mit/)
 
 ## About - 概要
