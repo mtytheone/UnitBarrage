@@ -67,3 +67,10 @@ UnityのPreview版PackageであるECSを使用した簡単な弾幕シューテ�
 Cloneして使う際は、GameScene内のTextに、TextMeshProに日本語対応したフォントを作成したものをアタッチしてください。
 
 加えて、プロジェクト内にて不備などがありましたら、[Twitter](https://twitter.com/kohu_vr)にてリプを飛ばしてもらえればと思います。
+
+## Tester - テスター
+- ふぁるこ [@faruco10032](https://twitter.com/faruco10032)
+- がとーしょこら [@gatosyocora](https://twitter.com/gatosyocora)
+- ミツキツネ [@mitsu_kitsune](https://twitter.com/mitsu_kitsune)
+- 胡椒少々塩少佐 [@syousa2003](https://twitter.com/syousa2003)
+- かんざきちゃん [@kanzakich_vr](https://twitter.com/kanzakich_vr)
