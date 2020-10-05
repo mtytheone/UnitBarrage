@@ -47,7 +47,7 @@ UnityのPreview版PackageであるECSを使用した簡単な弾幕シューテ�
 
 - [ライセンスページ](https://choosealicense.com/licenses/mit/)
 
-## Production environment - 制作環境
+## Production Environment - 制作環境
 - **Unity** 2020.1.4f1
 - **UniversalRenderingPipeline** ver.8.2.0
 - **HavokPhysicsforUnity** ver.0.4.0-preview.1
@@ -59,3 +59,9 @@ UnityのPreview版PackageであるECSを使用した簡単な弾幕シューテ�
 - **Hybrid Renderer** ver.0.8.0-preview.18
 - **InputSystem** ver.1.0.0
 - **TextMeshPro** ver.3.0.1
+
+## About Project - プロジェクトに関して
+プライバシーの関係上、フォントとGSSSettingについてはGitにコミットしていません。そのため、起動して確かめる際にはオフラインモードのみ正常に動くと思います。
+Cloneして使う際は、GameScene内のTextに、TextMeshProに日本語対応したフォントを作成したものをアタッチしてください。
+
+加えて、プロジェクト内にて不備などがありましたら、[Twitter](https://twitter.com/kohu_vr)にてリプを飛ばしてもらえればと思います。
