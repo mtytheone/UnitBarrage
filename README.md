@@ -1,7 +1,7 @@
 # UnitBarrage
 
-[![ver:1.1](https://img.shields.io/badge/ver-1.1-8181F7.svg)](https://github.com/mtytheone/UnitBarrage/releases/tag/v1.1)
-[![License:GPLv3](https://img.shields.io/badge/License-MIT-04B431.svg)](https://choosealicense.com/licenses/mit/)
+[![ver:1.1.1](https://img.shields.io/badge/ver-1.1.1-8181F7.svg)](https://github.com/mtytheone/UnitBarrage/releases/tag/v1.1.1)
+[![License:MIT](https://img.shields.io/badge/License-MIT-04B431.svg)](https://choosealicense.com/licenses/mit/)
 
 ## About - 概要
 UnityのPreview版PackageであるECSを使用した簡単な弾幕シューティング系のミニゲームです。タイトル画面は存在しておらず、設定画面とゲーム本体のみで構成されています。全3段階の攻撃を備えたボスが一体出現します。加えて、プレイヤーの残り残機とボス撃破の素早さを甘味して集計されるオンラインでのスコアランキングがあります（オンラインモードのみ）。
