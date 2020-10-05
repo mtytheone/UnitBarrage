@@ -24,7 +24,7 @@ namespace hatuxes.UnitBarrage
             var totalScore = GameManager.Instance.GetTotalScore();
 
             // ツイート文とハッシュタグを決める
-            string text = UnityWebRequest.EscapeURL("私のスコアは \"" + totalScore.ToString() + "\" ptでした！\n");
+            string text = UnityWebRequest.EscapeURL("私のスコアは \"" + totalScore.ToString() + "\" ptでした！\nhttps://github.com/mtytheone/UnitBarrage/releases/\n");
             string hashtag = UnityWebRequest.EscapeURL("UnitBarrage");
 
             // URLにして発行
