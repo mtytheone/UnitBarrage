@@ -6,6 +6,8 @@
 ## About - 概要
 UnityのPreview版PackageであるECSを使用した簡単な弾幕シューティング系のミニゲームです。タイトル画面は存在しておらず、設定画面とゲーム本体のみで構成されています。全3段階の攻撃を備えたボスが一体出現します。加えて、プレイヤーの残り残機とボス撃破の素早さを甘味して集計されるオンラインでのスコアランキングがあります（オンラインモードのみ）。
 
+## Video - プレイ映像
+以下の画像リンク先のYoutubeにてご覧いただけます。
 [![ゲームイメージ](https://img.youtube.com/vi/hGCitr9zpgU/0.jpg)](https://www.youtube.com/watch?v=hGCitr9zpgU)
 
 ## Approval - 同意
